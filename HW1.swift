@@ -3,7 +3,7 @@
 // PANTHER ID: 6285237
 // 
 // CLASS: COP4655 
-// SECTION:  
+// SECTION:  RVC 
 // SEMESTER: Fall 2024 
 // CLASSTIME: Online
 // 
